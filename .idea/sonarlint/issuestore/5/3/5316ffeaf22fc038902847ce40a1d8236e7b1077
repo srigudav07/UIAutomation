@@ -1,10 +1,0 @@
-
-ƒsquid:S1488"`Immediately return this expression instead of assigning it to the temporary variable "rowCount".(ö°Ğéøÿÿÿÿ8„¬ŸÚ¥.
-Š"squid:ClassVariableVisibilityCheck"PMake cell a static final constant or non-public and provide accessors if needed.(¢‹à³ùÿÿÿÿ8„¬ŸÚ¥.
-…"squid:ClassVariableVisibilityCheck"QMake sheet a static final constant or non-public and provide accessors if needed.(Í®ŒU8„¬ŸÚ¥.
-„"squid:ClassVariableVisibilityCheck"OMake row a static final constant or non-public and provide accessors if needed.(œÑ©«8„¬ŸÚ¥.
-Nsquid:S1172&"0Remove this unused method parameter "sheetName".(ÂàŸ8šßÂÚ¥.
-esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÁÏÁ—8„¬ŸÚ¥.
-ƒsquid:S1488""`Immediately return this expression instead of assigning it to the temporary variable "colCount".(ªÍ©Øıÿÿÿÿ8„¬ŸÚ¥.
-"squid:ClassVariableVisibilityCheck"TMake workbook a static final constant or non-public and provide accessors if needed.(ÜòÓ‡ùÿÿÿÿ8„¬ŸÚ¥.
-‰"squid:ClassVariableVisibilityCheck"OMake fis a static final constant or non-public and provide accessors if needed.(í·²üûÿÿÿÿ8„¬ŸÚ¥.
